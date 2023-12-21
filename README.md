@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Egor
 ============================================================================================================================
 
-A passionate Data Scientist/Analyst from Germany
+A passionate Digital Marketing Data Scientist/Analyst from Germany
 ------------------------------------------------
 
 I've been diving into the world of digital analytics for over 5 years, and let me tell you, it's been a wild ride! 📊 But now, I've got my sights set on something even more exciting – AI and ML. 🤖 These cutting-edge technologies have the power to supercharge our data analysis game, and I'm all in! 
